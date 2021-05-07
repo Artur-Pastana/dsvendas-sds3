@@ -47,11 +47,11 @@ public class Seller {
 		this.id = id;
 	}
 
-	public String getNome() {
+	public String getName() {
 		return name;
 	}
 
-	public void setNome(String nome) {
+	public void setName(String nome) {
 		this.name = nome;
 	}
 
