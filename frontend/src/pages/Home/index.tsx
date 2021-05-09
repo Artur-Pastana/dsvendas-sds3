@@ -15,6 +15,7 @@ function Home() {
                     <Link className="btn btn-primary btn-lg" to="/dashboard">
                         Accesar o DashBoard
                     </Link>
+                    <Link type="button" className="btn btn-outline-danger" to="/dashboard">Acessando DashBoard</Link>
                 </div>
             </div>
             <Footer></Footer>

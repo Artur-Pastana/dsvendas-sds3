@@ -49,3 +49,8 @@ html, body {
     color: #FF8400;
     border-radius: 3px;
 }
+.btn-outline-danger{
+    padding: 10px;
+    margin-left: 20px;
+    font: bold;
+}
