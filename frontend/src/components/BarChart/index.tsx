@@ -58,7 +58,6 @@ const BarChart = () => {
             }
         },
     };
-
     /*const mockData = {
         labels: {
             categories: ['Viuva Negra', 'Namikase', 'Wanda', 'Logan', 'Basculho']

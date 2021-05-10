@@ -48,7 +48,7 @@ const DonuChart = () => {
             options={{ ...options, labels: chartData.labels }}
             series={chartData.series}
             type="donut"
-            height="250"
+            height="300"
         />
     );
 }
